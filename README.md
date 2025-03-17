@@ -1,4 +1,4 @@
-# GameSportOS - Interactive Shell
+# 🇬🇧GameSportOS - Interactive Shell
 
 Welcome to **GameSportOS**, an interactive shell developed in Bash that offers a variety of useful and fun commands to enhance your terminal experience. From games like roulette to creating and deleting files and folders, this shell is designed to be both functional and entertaining.
 
@@ -87,7 +87,7 @@ Have fun exploring and using **GameSportOS**! 🎮
 
 ---
 
-# GameSportOS - Shell Interactiva
+# 🇪🇸GameSportOS - Shell Interactiva
 
 Bienvenido a **GameSportOS**, una shell interactiva desarrollada en Bash que ofrece una variedad de comandos útiles y divertidos para mejorar tu experiencia en la terminal. Desde juegos como la ruleta hasta la creación y eliminación de archivos y carpetas, esta shell está diseñada para ser tanto funcional como entretenida.
 
