@@ -1,6 +1,6 @@
 # Shell Interactiva - GameSportOS
 
-## Descripción
+## Descripción 
 Este script (`shell_interactiva.sh`) proporciona una shell interactiva con múltiples funciones, incluyendo un juego de ruleta, comandos personalizados, gestión de archivos y acceso a noticias.
 
 ## Requisitos
