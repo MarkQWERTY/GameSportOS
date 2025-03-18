@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #1a1a1a;
+    color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+}
+.status-bar {
+    background: #333;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+.status-bar *{
+    margin: 1vw;
+}
+.menu {
+    flex-grow: 1;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu a{
+    padding: 60px 100px;
+    background-color: aqua;
+    margin: 50px;
+    border-radius: 33px;
+    color: rgb(156, 0, 0);
+    text-decoration: none;
+}
+a{
+    color: rgb(156, 0, 0);
+    text-decoration: none;
+}
+.buts{
+    display: flex;
+    flex-direction: row;
+}
+    

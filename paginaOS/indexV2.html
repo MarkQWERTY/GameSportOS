@@ -1,0 +1,31 @@
+<html>
+<head>
+    <title>GameSportOS</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    
+    <div class="menu">
+        <h1>WELCOME</h1>
+        <div class="buts">
+            <a href="/subfolders/history.html">Videogames history</a>
+            <a href="/subfolders/sports_gaming.html">Sports history</a>
+            <a href="/subfolders/commands.html">Usefull commands</a>
+        </div>
+    </div>
+   
+    <div class="status-bar">
+        <h2>GameSportOS</h2>
+        <span id="clock"></span>
+        <a href="/subfolders/about.html">About GameSportOS</a>
+        <a href="/subfolders/contact.html">Contact</a>
+    </div>
+    <script>
+        function updateClock() {
+            document.getElementById('clock').innerText = new Date().toLocaleTimeString();
+        }
+        setInterval(updateClock, 1000);
+        updateClock();
+    </script>
+</body>
+</html>
